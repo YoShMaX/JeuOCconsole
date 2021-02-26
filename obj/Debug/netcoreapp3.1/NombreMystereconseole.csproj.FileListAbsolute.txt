@@ -1,0 +1,13 @@
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.exe
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.deps.json
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.runtimeconfig.json
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.runtimeconfig.dev.json
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.dll
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\bin\Debug\netcoreapp3.1\NombreMystereconseole.pdb
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.csprojAssemblyReference.cache
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.AssemblyInfoInputs.cache
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.AssemblyInfo.cs
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.dll
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.pdb
+C:\Users\Maxime\source\repos\SayMyName\NombreMystereconseole\obj\Debug\netcoreapp3.1\NombreMystereconseole.genruntimeconfig.cache
